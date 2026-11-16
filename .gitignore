@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Generated detection outputs
+*_annotated*.png
+*_annotated*.jpg
+*_debug*/
+*_taskA_annotated*
+*.log
+
+# VS Code
+.vscode/
